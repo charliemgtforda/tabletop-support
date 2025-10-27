@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TableTop Support</title>
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #222;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+  }
+  h1 { color: #007aff; }
+  footer { margin-top: 40px; font-size: 0.9em; color: #666; }
+</style>
+</head>
+<body>
+
+<h1>TableTop Support</h1>
+<p>If you have questions, bug reports, or feature requests, please reach out!</p>
+<p><strong>Email:</strong> [charliemgtfordag@icloud.com]</p>
+<p>We typically respond within 24–48 hours. Thanks for playing TableTop!</p>
+
+<footer>© 2025 Charlie Grant</footer>
+</body>
+</html>
